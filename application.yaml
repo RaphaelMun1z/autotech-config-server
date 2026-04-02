@@ -13,5 +13,5 @@ management:
     health:
       show-details: always
 greeting-service:
-  greeting: "Hello"
-  default-value: "World"
+  greeting: "Pronto"
+  default-value: "Mondo"
